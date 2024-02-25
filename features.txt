@@ -1,0 +1,11 @@
+DISCORD BOT FEATUES:::::
+
+DOne:
+* Ping with ms 
+* membercount
+
+Not::
+* serverinfo	
+* setnick
+* timer
+* eval code
